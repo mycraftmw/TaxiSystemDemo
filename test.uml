@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="637.3325387365912" y="419.1466030989273">UserOperator</node>
+    <node x="0.0" y="1228.0">LightsMap</node>
+    <node x="996.0" y="920.0">TaxiSchedulingSystem</node>
+    <node x="678.0" y="920.0">CityCross</node>
+    <node x="583.0" y="1228.0">TaxiStatus</node>
+    <node x="0.0" y="920.0">Request</node>
+    <node x="1001.7103694874852" y="1168.4457687723482">Direction</node>
+    <node x="77.5" y="635.0">VipTaxi</node>
+    <node x="386.0" y="920.0">MyTimer</node>
+    <node x="262.0" y="1228.0">Simulation</node>
+    <node x="635.0" y="0.0">CityMap</node>
+    <node x="0.0" y="0.0">Taxi</node>
+    <node x="757.0" y="1228.0">Main</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="VipTaxi" target="Taxi">
+      <point x="0.0" y="-120.0" />
+      <point x="0.0" y="292.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.5916784203102962" x="761.6615017878428" y="819.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>Project Files</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
